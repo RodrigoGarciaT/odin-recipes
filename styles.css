@@ -1,0 +1,46 @@
+#page{
+    background-color: yellowgreen;
+}
+
+.heading{
+    text-align: center;
+    font-size: 50px;
+}
+
+.second{
+    font-size: 25px;
+}
+
+.list{
+    list-style: none;
+    text-align: center;
+    font-size: 32px;
+    font-family: cursive;
+}
+
+.button{
+    background-color:orange;
+    color:black;
+}
+.link{
+    color:black;
+    font-size:30px;
+}
+.showcase{
+    width: 5px;
+    height: auto;
+     display:block;
+     margin-left:auto;
+     margin-right:auto;
+     width: 50%;
+}
+.showcase .image{
+    width:100px;
+    height: auto;
+}
+.center{
+   text-align: center;
+}
+/*.uno{
+   
+}*/
